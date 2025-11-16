@@ -14,7 +14,9 @@ BRANCHES_COINCIDENCES = [
     'energy1', 'sourcePosX1', 'sourcePosY1', 'sourcePosZ1', 'comptonPhantom1',
     'comptonCrystal1', 'eventID2', 'globalPosX2', 'globalPosY2', 'globalPosZ2',
     'time2', 'energy2', 'sourcePosX2', 'sourcePosY2', 'sourcePosZ2',
-    'comptonPhantom2', 'comptonCrystal2'
+    'comptonPhantom2', 'comptonCrystal2', 'eventID3', 'globalPosX3', 'globalPosY3', 'globalPosZ3',
+    'time3', 'energy3', 'sourcePosX3', 'sourcePosY3', 'sourcePosZ3',
+    'comptonPhantom3', 'comptonCrystal3'
 ]
 ALIASES_COINCIDENCES = [
     'eventID1', 'x1', 'y1', 'z1', 't1', 'e1', 'sX1', 'sY1', 'sZ1',
