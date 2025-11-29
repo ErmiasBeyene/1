@@ -1,3 +1,0 @@
-awkward
-h5py
-numba
